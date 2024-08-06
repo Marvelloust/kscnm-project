@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kscnm-project/static/css/main.088d77b1.css",
+    "main.js": "/kscnm-project/static/js/main.902ddb3e.js",
+    "static/media/remitalogo.png": "/kscnm-project/static/media/remitalogo.17b4751818690e8220fe.png",
+    "static/media/logo.webp": "/kscnm-project/static/media/logo.1fc6562423181e1c1d4c.webp",
+    "index.html": "/kscnm-project/index.html",
+    "main.088d77b1.css.map": "/kscnm-project/static/css/main.088d77b1.css.map",
+    "main.902ddb3e.js.map": "/kscnm-project/static/js/main.902ddb3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.088d77b1.css",
+    "static/js/main.902ddb3e.js"
+  ]
+}
